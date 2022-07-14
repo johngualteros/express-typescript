@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "date":"2017-01-05",
+        "weather":"rainy",
+        "visibility":"poor",
+        "comment":"Pretty scary flight, I'm glad I'm alive"
+    },
+    {
+        "id":2,
+        "date":"2017-01-06",
+        "weather":"sunny",
+        "visibility":"good",
+        "comment":"Pretty scary flight, I'm glad I'm alive"
+    },
+    {
+        "id":3,
+        "date":"2017-01-07",
+        "weather":"cloudy",
+        "visibility":"good",
+        "comment":"Pretty scary flight, I'm glad I'm alive"
+    },
+    {
+        "id":4,
+        "date":"2017-01-08",
+        "weather":"rainy",
+        "visibility":"good",
+        "comment":"Pretty scary flight, I'm glad I'm alive"
+    },
+    {
+        "id":5,
+        "date":"2017-01-09",
+        "weather":"sunny",
+        "visibility":"good",
+        "comment":"Pretty scary flight, I'm glad I'm alive"
+    },
+    {
+        "id":6,
+        "date":"2017-01-10",
+        "weather":"cloudy",
+        "visibility":"good",
+        "comment":"Pretty scary flight, I'm glad I'm alive"
+    },
+    {
+        "id":7,
+        "date":"2017-01-11",
+        "weather":"rainy",
+        "visibility":"good",
+        "comment":"Pretty scary flight, I'm glad I'm alive"
+    },
+    {
+        "id":8,
+        "date":"2017-01-12",
+        "weather":"sunny",
+        "visibility":"good",
+        "comment":"Pretty scary flight, I'm glad I'm alive"
+    },
+    {
+        "id":9,
+        "date":"2017-01-13",
+        "weather":"cloudy",
+        "visibility":"good",
+        "comment":"Pretty scary flight, I'm glad I'm alive"
+    },
+    {
+        "id":10,
+        "date":"2017-01-14",
+        "weather":"rainy",
+        "visibility":"good",
+        "comment":"Pretty scary flight, I'm glad I'm alive"
+    }
+]
